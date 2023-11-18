@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainbox{
+    width: 600px;
+    height: 450px;
+    border: solid  3px red;
+    position: relative;
+    margin: 10%;
+}
+.box2{
+ margin: 5%;
+ height: 50px;
+ border: solid 3px red;
+
+}
+#p1{
+margin: 10px ;
+font-weight: 900;
+font-size: large;
+
+}
+.box3{
+    margin: 5%;
+    height: 90px;
+    border: solid 3px red;
+
+}
+#p2{
+    margin: 1%;
+}
+.box4{
+    margin: 5%;
+    height: 115px;
+    border: solid 3px red;
+    padding: 1%;
+}
+#boxf{
+    margin: 0% 1%;
+    height: 49px;
+    border: solid 3px red;
+    padding: 1%;
+   
+}
+#boxs{
+  
+    margin: 0% 1%;
+    height: 49px;
+    border: solid 3px red;
+    padding: 1%;
+}
+.link{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+}
+#box{
+    border: solid 3px red;
+    padding: 7px;
+    margin: 1%;
+    
+}
+span{
+ text-align: center;
+}
+
