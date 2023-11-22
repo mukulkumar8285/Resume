@@ -1,0 +1,525 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/
+Subject: FEM grid
+Date: Wed, 22 Nov 2023 16:38:52 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----"
+
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: text/html
+Content-ID: <frame-17DC126297FC4EDFC8DB31391B604C2E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <!-- Google font -->
+  <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+  <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=
+=3D"">
+  <link href=3D"https://fonts.googleapis.com/css2?family=3DBarlow+Semi+Cond=
+ensed:wght@500;600&amp;display=3Dswap" rel=3D"stylesheet">
+  <!-- my css -->
+  <link rel=3D"stylesheet" href=3D"https://kabir-sagiii.github.io/CSS_Grid_=
+learn-grid-the-easy-way/style.css">
+  <title>FEM grid</title>
+</head>
+
+<body cz-shortcut-listen=3D"true">
+  <main class=3D"testimonial-grid">
+    <article class=3D"testimonial grid-col-span-2 flow bg-primary-400 quote=
+ text-neutral-100">
+      <div class=3D"flex">
+        <div>
+          <img src=3D"https://kabir-sagiii.github.io/CSS_Grid_learn-grid-th=
+e-easy-way/images/image-daniel.jpg" alt=3D"daniel clifford">
+        </div>
+        <div>
+          <h2 class=3D"name">Daniel Clifford</h2>
+          <p class=3D"position">Verified Graduate</p>
+        </div>
+      </div>
+      <p>
+        I received a job offer mid-course, and the subjects I learned were =
+current, if not more so,
+        in the company I joined. I honestly feel I got every penny=E2=80=99=
+s worth.
+      </p>
+      <p>
+        =E2=80=9C I was an EMT for many years before I joined the bootcamp.=
+ I=E2=80=99ve been looking to make a
+        transition and have heard some people who had an amazing experience=
+ here. I signed up
+        for the free intro course and found it incredibly fun! I enrolled s=
+hortly thereafter.
+        The next 12 weeks was the best - and most grueling - time of my lif=
+e. Since completing
+        the course, I=E2=80=99ve successfully switched careers, working as =
+a Software Engineer at a VR startup. =E2=80=9D
+      </p>
+    </article>
+    <article class=3D"testimonial flow bg-secondary-400 text-neutral-100">
+      <div class=3D"flex">
+        <div>
+          <img src=3D"https://kabir-sagiii.github.io/CSS_Grid_learn-grid-th=
+e-easy-way/images/image-jonathan.jpg" alt=3D"Jonathan Walters">
+        </div>
+        <div>
+          <h2 class=3D"name">Jonathan Walters</h2>
+          <p class=3D"position">Verified Graduate</p>
+        </div>
+      </div>
+      <p>
+        The team was very supportive and kept me motivated
+      </p>
+      <p>
+        =E2=80=9C I started as a total newbie with virtually no coding skil=
+ls. I now work as a mobile engineer
+        for a big company. This was one of the best investments I=E2=80=99v=
+e made in myself. =E2=80=9D
+      </p>
+    </article>
+    <article class=3D"testimonial flow bg-neutral-100 text-secondary-400">
+      <div class=3D"flex">
+        <div>
+          <img src=3D"https://kabir-sagiii.github.io/CSS_Grid_learn-grid-th=
+e-easy-way/images/image-jeanette.jpg" alt=3D"Jeanette Harmon">
+        </div>
+        <div>
+          <h2 class=3D"name">Jeanette Harmon</h2>
+          <p class=3D"position">Verified Graduate</p>
+        </div>
+      </div>
+      <p>
+        An overall wonderful and rewarding experience</p>
+      <p>
+        =E2=80=9C Thank you for the wonderful experience! I now have a job =
+I really enjoy, and make a good living
+        while doing something I love. =E2=80=9D
+      </p>
+    </article>
+    <article class=3D"testimonial grid-col-span-2 flow bg-secondary-500 tex=
+t-neutral-100">
+      <div class=3D"flex">
+        <div>
+          <img class=3D"border-primary-400" src=3D"https://kabir-sagiii.git=
+hub.io/CSS_Grid_learn-grid-the-easy-way/images/image-patrick.jpg" alt=3D"Pa=
+trick Abrams">
+        </div>
+        <div>
+          <h2 class=3D"name">Patrick Abrams</h2>
+          <p class=3D"position">Verified Graduate</p>
+        </div>
+      </div>
+      <p>
+        Awesome teaching support from TAs who did the bootcamp themselves. =
+Getting guidance from them and
+        learning from their experiences was easy.
+      </p>
+      <p>
+        =E2=80=9C The staff seem genuinely concerned about my progress whic=
+h I find really refreshing. The program
+        gave me the confidence necessary to be able to go out in the world =
+and present myself as a capable
+        junior developer. The standard is above the rest. You will get the =
+personal attention you need from
+        an incredible community of smart and amazing people. =E2=80=9D
+      </p>
+    </article>
+    <article class=3D"testimonial flow bg-neutral-100 text-secondary-400">
+      <div class=3D"flex">
+        <div>
+          <img src=3D"https://kabir-sagiii.github.io/CSS_Grid_learn-grid-th=
+e-easy-way/images/image-kira.jpg" alt=3D"Kira Whittle">
+        </div>
+        <div>
+          <h2 class=3D"name">Kira Whittle</h2>
+          <p class=3D"position">Verified Graduate</p>
+        </div>
+      </div>
+      <p>
+        Such a life-changing experience. Highly recommended!
+      </p>
+      <p>
+        =E2=80=9C Before joining the bootcamp, I=E2=80=99ve never written a=
+ line of code. I needed some structure from
+        professionals who can help me learn programming step by step. I was=
+ encouraged to enroll by a former
+        student of theirs who can only say wonderful things about the progr=
+am. The entire curriculum and staff
+        did not disappoint. They were very hands-on and I never had to wait=
+ long for assistance. The agile team
+        project, in particular, was outstanding. It took my learning to the=
+ next level in a way that no tutorial
+        could ever have. In fact, I=E2=80=99ve often referred to it during =
+interviews as an example of my developent
+        experience. It certainly helped me land a job as a full-stack devel=
+oper after receiving multiple offers.
+        100% recommend! =E2=80=9D
+      </p>
+    </article>
+  </main>
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CGslu50.woff2"=
+) format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-16=
+9, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1=
+EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_CWslu50.woff2"=
+) format("woff2"); unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E=
+9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A=
+720-A7FF; }
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sl.woff2") f=
+ormat("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, =
+U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2=
+191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CGslu50.woff2"=
+) format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-16=
+9, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1=
+EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_CWslu50.woff2"=
+) format("woff2"); unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E=
+9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A=
+720-A7FF; }
+
+@font-face { font-family: "Barlow Semi Condensed"; font-style: normal; font=
+-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/bar=
+lowsemicondensed/v15/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfp66_B2sl.woff2") f=
+ormat("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, =
+U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2=
+191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/style.css
+
+@charset "utf-8";
+
+:root { --clr-primary-400: 263 55% 52%; --clr-secondary-400: 217 19% 35%; -=
+-clr-secondary-500: 219 29% 14%; --clr-neutral-100: 0 0% 100%; --clr-neutra=
+l-200: 210 46% 95%; --clr-neutral-300: 0 0% 81%; --ff-primary: "Barlow Semi=
+ Condensed", sans-serif; --fw-400: 500; --fw-700: 600; --fs-300: 0.6875rem;=
+ --fs-400: 0.8125rem; --fs-500: 1.25rem; }
+
+*, ::before, ::after { box-sizing: border-box; }
+
+body, h1, h2, h3, h4, p, figure, blockquote, dl, dd { margin: 0px; }
+
+ul[role=3D"list"], ol[role=3D"list"] { list-style: none; }
+
+html:focus-within { scroll-behavior: smooth; }
+
+body { min-height: 100vh; text-rendering: optimizespeed; line-height: 1.5; =
+}
+
+a:not([class]) { text-decoration-skip-ink: auto; }
+
+img, picture { max-width: 100%; display: block; }
+
+input, button, textarea, select { font: inherit; }
+
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within { scroll-behavior: auto; }
+  *, ::before, ::after { animation-duration: 0.01ms !important; animation-i=
+teration-count: 1 !important; transition-duration: 0.01ms !important; scrol=
+l-behavior: auto !important; }
+}
+
+body { display: grid; place-content: center; min-height: 100vh; font-family=
+: var(--ff-primary); font-weight: var(--fw-400); background-color: hsl(var(=
+--clr-neutral-200)); }
+
+h1, h2, h3 { font-weight: var(--fw-700); }
+
+.flex { display: flex; gap: var(--gap, 1rem); }
+
+.flow > :where(:not(:first-child)) { margin-top: var(--flow-spacer, 1em); }
+
+.bg-primary-400 { background: hsl(var(--clr-primary-400)); }
+
+.bg-secondary-400 { background: hsl(var(--clr-secondary-400)); }
+
+.bg-secondary-500 { background: hsl(var(--clr-secondary-500)); }
+
+.bg-neutral-100 { background: hsl(var(--clr-neutral-100)); }
+
+.text-neutral-100 { color: hsl(var(--clr-neutral-100)); }
+
+.text-secondary-400 { color: hsl(var(--clr-secondary-400)); }
+
+.border-primary-400 { border: 2px solid rgb(167, 117, 241); }
+
+.testimonial-grid { display: grid; gap: 1.5rem; grid-auto-columns: 1fr; gri=
+d-template-areas: "one" "two" "three" "four" "five"; padding-block: 2rem; w=
+idth: min(95%, 70rem); margin-inline: auto; }
+
+.testimonial { font-size: var(--fs-400); padding: 2rem; border-radius: 0.5r=
+em; box-shadow: 2.5rem 3.75rem 3rem -3rem hsl(var(--clr-secondary-400) / 0.=
+25); }
+
+.testimonial:nth-child(1) { grid-area: one; }
+
+.testimonial:nth-child(2) { grid-area: two; }
+
+.testimonial:nth-child(3) { grid-area: three; }
+
+.testimonial:nth-child(4) { grid-area: four; }
+
+.testimonial:nth-child(5) { grid-area: five; }
+
+@media screen and (min-width: 33em) {
+  .testimonial-grid { grid-template-areas: "one one" "two three" "five five=
+" "four four"; }
+}
+
+@media screen and (min-width: 38em) {
+  .testimonial-grid { grid-template-areas: "one one" "two five" "three five=
+" "four four"; }
+}
+
+@media screen and (min-width: 54em) {
+  .testimonial-grid { grid-template-areas: "one one two" "five five five" "=
+three four four"; }
+}
+
+@media screen and (min-width: 75em) {
+  .testimonial-grid { grid-template-areas: "one one two five" "three four f=
+our five"; }
+}
+
+.testimonial.quote { background-image: url("./images/bg-pattern-quotation.s=
+vg"); background-repeat: no-repeat; background-position: right 10% top; }
+
+.testimonial img { width: 1.75rem; aspect-ratio: 1 / 1; border-radius: 50%;=
+ }
+
+.testimonial .name { font-size: var(--fs-400); font-weight: var(--fw-400); =
+line-height: 1; }
+
+.testimonial .position { font-size: var(--fs-300); opacity: 0.5; }
+
+.testimonial > p:first-of-type { font-size: var(--fs-500); line-height: 1.2=
+; }
+
+.testimonial > p:last-of-type { opacity: 0.7; }
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/bg-pattern-quotation.svg
+
+<svg width=3D"104" height=3D"102" xmlns=3D"http://www.w3.org/2000/svg"><pat=
+h d=3D"M104 102V59.727H84.114c0-5.871.689-11.182 2.068-15.933 1.379-4.75 3.=
+42-9.287 6.125-13.61C95.01 25.86 98.909 22.257 104 19.375V0c-9.758 4.27-17.=
+712 9.874-23.864 16.813-6.151 6.939-10.712 14.545-13.681 22.818C63.485 47.9=
+04 62 59.941 62 75.74V102h42zm-62 0V59.727H22.114c0-5.871.689-11.182 2.068-=
+15.933 1.379-4.75 3.42-9.287 6.125-13.61C33.01 25.86 36.909 22.257 42 19.37=
+5V0c-9.652 4.27-17.58 9.874-23.784 16.813C12.01 23.752 7.424 31.358 4.455 3=
+9.631 1.485 47.904 0 59.941 0 75.74V102h42z" fill=3D"#A775F1" fill-rule=3D"=
+nonzero"/></svg>
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/image-daniel.jpg
+
+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
+2GAaGs0uozSbJpkXNf/Z
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/image-jonathan.jpg
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAQEBAQGBgUGBggHBwcHCAwJCQkJCQwTDA4M
+DA4MExEUEA8QFBEeFxUVFx4iHRsdIiolJSo0MjRERFwBBAQEBAQEBAQEBAYGBQYGCAcHBwcIDAkJ
+CQkJDBMMDgwMDgwTERQQDxAUER4XFRUXHiIdGx0iKiUlKjQyNEREXP/CABEIADgAOAMBIgACEQED
+EQH/xAAaAAADAQEBAQAAAAAAAAAAAAAGBwgFBAkD/9oACAEBAAAAAK3JAqOmPWfxx1tKK4oSjm4N
+p2IeQqsx1j85w2X4fq0UhSMjFcsn0nYQioICyHXaGbtjoBnmneV//8QAGQEAAgMBAAAAAAAAAAAA
+AAAAAwQBAgUA/9oACAECEAAAALhudUDDKUnztAEd/8QAGAEBAQEBAQAAAAAAAAAAAAAABAMBAAX/
+2gAIAQMQAAAAxUYXaUztI/z653//xAAvEAABAwMDAgYBAgcAAAAAAAACAQMEAAURBhIhByITFDEy
+QWFRcXIII1JikaGx/9oACAEBAAE/ALaG1QzwtCta76h6c6d2sblfnzU3S2RojCb5Eg/wA1qT+J7X
+txnPRrLpKJGgL2izJBX3iH+6umnVbSV/mtae1XpgNPXo9vhI4Ciy8pfvRFGo9stTTYC3Caz+1KvF
+lt7tomNLEaVCbLjFPOjCaOSoKWwc4Sr91ktGnBA7jCltia4FfCWr7rVdQ6ouPUG4Nm4DiHGtUZU3
+eCy12IqIvCKS8qtS5pz7il1Utpk5vIl4VFpuVH15pR20XKVBuBBFVIkoNqSor4chyvcPNdFdSSdV
+aJtNxn8zWUKHJ+3GO3NTCbOO60S8kC0cc5LRtNYQiT1WuonTZL1bzkXu5qMOE05JMWRRF/liq1en
+Lb5CJEYyBeGICKc9hjnj7qDYY8q3TGBurRyBa3RwQ/cSLyOV9VrprAuLNxbltNNC2jiAZKSIpAXC
+pXQ2BItWiWXNmxJ9wmzBH8AbqiH+hrlxS3eu2inG1GecD3gKqi1qrXWo71Cn21iAZjIYej5TdhN4
+qOaYd81doVvum9s47hsvj6KqBhFxn5qXp3TrCPXC0zHiNhsnvLOskhLtTnkVIFWtL3m4tPtswTIp
+kp1WozA+quOLtDj9VrTVqSyWKx2lfdEhMMl9kAYVaax4qJ+Rp4MsyGkPv2LlKli5A2sK6gqpERCq
+fCrXUaJGd1DNvVjBFaB/Y+KfLopySUdxeMHG03ip+7uXFdL2wtN7harfQXPIPIbTRJlDcRMJVk1z
+CukaHKkJ4KPAhiS+1c1GlxnjacbfBRVF5zT7qQZPmJHAEP8AmtZQidO5Xi1CrtwcjEDSOqiss7Uz
+uFtPea/a4qE9KJyfCl78uGp9/rn0VF+6mtRYshAIFMUXJ7f+VpKzvXNmE3EhvtMv8b3GCDCf1c1a
+IFuC2RLQLSeCwygAvymPVauM53TpixJiqkc+G3gVdhfX0tamuiu3A4ol2sdmPuvG4yvNXfQekbpN
+O6SrM2kos7jaMm9yr8qg8VD0XpWA8L8SxRvFRdyOOIry5/Kb84WmFBkc4TNMXRWTRc8VGvEeW15e
+SAOtkmCE0RUX9UWv/8QAJBEAAgIBAwMFAQAAAAAAAAAAAREAAgMEEiETMUEFFCIyUWH/2gAIAQIB
+AT8Acy5RQMHl9pTIbeeZU2UyXGNE2QmTkhnv/HNPQg2Yjmq03V2bLokcvsIFv6S+qRM1R6WPH7a4
+tkDJ/CIfU9vxyYSLRtywiUNQfE//xAAgEQEAAgICAgMBAAAAAAAAAAABAAIDERIxBCEFEBNR/9oA
+CAEDAQE/AJhwOTvrUvj4PUdTHjtd4ldsxOqqV9BrvU8m4hxYTxfJrhvZvXkaNamVbl8+yvJVCYdW
+tf8AeqUfR/RlfjG5yx5qtXr6F4xdwUPSz//Z
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/image-jeanette.jpg
+
+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
+DzHyOx3M7bmyZMZDm9OwndPmT9ZrZdgZ/9k=
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/image-patrick.jpg
+
+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
+Z12KIr//2Q==
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/image-kira.jpg
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAQEBAQEBAQEBAQGBgUGBggHBwcHCAwJCQkJCQwTDA4M
+DA4MExEUEA8QFBEeFxUVFx4iHRsdIiolJSo0MjRERFwBBAQEBAQEBAQEBAYGBQYGCAcHBwcIDAkJ
+CQkJDBMMDgwMDgwTERQQDxAUER4XFRUXHiIdGx0iKiUlKjQyNEREXP/CABEIADgAOAMBIgACEQED
+EQH/xAAZAAADAQEBAAAAAAAAAAAAAAAGBwgFBAP/2gAIAQEAAAAAeHekBmgNce0kvJlYBVW4PfIn
+g4cBnkPXHjtJE+kavIpXy3wi1bcGJPhFQpRO7UTGjR2UDtPo/8QAGAEBAAMBAAAAAAAAAAAAAAAA
+BAECAwX/2gAIAQIQAAAAgu96c7RhAquFG5f/xAAYAQEBAQEBAAAAAAAAAAAAAAAEBQMBAv/aAAgB
+AxAAAADjS+NLYwtqTsqeQ3f/xAAjEAACAgICAQQDAAAAAAAAAAAEBQMGAQIHEQAIEjNEExUh/9oA
+CAEBAAEIAF/x6+bZ67zm480V9IRKuWjc0SS7rM7IXy6wA6GLt8dYz59krxf1+PTvne5E1pCMrAry
+NhZWcIIajitNCn3CLmjc8X2UM8P3e+PG/n2CvAfhj89SEsmbIh747b7VfAq6C12eypsgyg8gTsDq
+UE7IoNxitCGCSfH9nL8GlxFBFtt6hTBirQu3EQOFjNIExFDsWpw+m0vONvwNXoV2OMmLTVlJEAhu
+2++0sL5uWZKWhRBcogLhmzfC/jO0dDy15wh3re280IHOYjHDtTvLWWpKNyA2FrswDKNkzEs1/hCn
+WkgXGI9mYGHBTKi3r9lICfp02F03UbOtKnImR273hdce3nxS6ghnqVZHWsbDtk6KNdpxtuPl5uay
+wOCVriA6WzqF0W/7ey8xpY8aAVkIKFYsDWD40i303im//8QAMBAAAgEEAQEECQQDAAAAAAAAAQID
+AAQREiExQVFSYQUQFCIjMkJTcRMzYpEVgbH/2gAIAQEACT8A7z6oj6RukOsjI+kKHu2+o16EQQZ+
+IVmJbJ7sgVOHXo6Hh0bwuOw+r7dedSGO59KM6NIvDLCnXHm1RlnOGbwxr3tUryXEqoXkBxhk5Gtb
+XNnLiOWDP76E41H8x2UCNlBwezNfbruNblEsCqIVIBcyHkVYQzX10+bl5IZg2fAH5X3Qatj7PMFL
+JDAssrZ83OqioJbW5iu4m1mVUkxn+HHB5qVP8hCgS4UYGxHRx5NX2qViB4FLH+hTl57S1DSjOdCG
+2wR2Vbw+1TWqvsdV7ORk1a2kCQarq9zG7t+AvTyPbURL32yQnONNOrVfyxXccf6sIVvnVT764PWo
+BC5h4uU/ZcDt8vMVeSWvtrTNPNFgOIoQCVQkHDEmoxHbwKluzZLFpGGZGZmyWc55NWxlsoSTG4GW
+jDGpZ7mUj5GgRVX/AGFFFzaiyxEPoV9juKHxbSUS6eIDqv4IpFNlPBBdxIRkAN1/scGrGaaS0SYP
+K2EjxIAPOleaa5m30HJaSTDn/tWP6LXUKvbuPejlAGWCN0JFRHDnuq0inhI+WQZqd4BanW6NxkwI
+7DIijYZYv3inV7iO3eKR0OUOJCy4P4NZZ5+7jCj6jU1xE9nbJbJcrHva5zr8Q9jEDAq2UbHZEHvI
+GHR0PBU1fQWgtpzCJpHwsuOhFSm+vrhlhWfUrBAXOu2WALkUSUjG7u3LyyNyzue0seTSAowwa//E
+ACERAAEFAAMAAgMAAAAAAAAAAAEAAgMRIRJBYQQQIjEy/9oACAECAQE/ALptqSY2ANPnShlErb7H
+7RT/AOAuYu+dHsBQPLQ6RutJQlYdtSScntaD3d+BfJ2RwYMdR81QvLIhG9uNGEIPFDVCTVnbtR/k
+TfilHFmd/X//xAAiEQACAgEEAgMBAAAAAAAAAAABAgADEQQSMUEhIjJCYVH/2gAIAQMBAT8AxubE
+p025SSML0T3NRSaXx0eIJWPbiCptuAu5RwfyautGZamOHAhqZfGBK6SlZYr1jH9M0jldPh2IIyMS
+6sWWm1WyWPkGNUwZvUyz5H84lvqmRzKCXdt314gn/9k=
+
+------MultipartBoundary--GiKUYQXYGsLwDmwExw7m0yafQHaEFUoiQeedCYy4r3------
