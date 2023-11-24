@@ -21,6 +21,8 @@
     justify-content: space-between;
     padding: 15px;
     align-items: center;
+    position: fixed;
+    background-color: white;
 }
 .header_mid{
     display: flex;
@@ -41,7 +43,7 @@ button{
 }
 .header{
     width: 100%;
-    height: 70px;
+    height: 10vh;
     border: solid white ;
     box-shadow: 0 0  1px black;
 }
@@ -49,6 +51,8 @@ button{
 height: auto;
 width: 200px;
 padding: 10px;
+position: fixed;
+margin-top: 10vh;
 }
 .main hr{
     width: 200px
@@ -76,9 +80,9 @@ padding: 10px;
 }
 
 .content h1{
-    margin-top: 12px;
+    margin-top: 12vh;
     font-size: 20px;
-    margin-left: 11px;
+    margin-left: 200px;
 
 }
 #img1{
@@ -101,6 +105,8 @@ width: 250px;
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin-left: 200px;
+    
     
 }
 .video{
